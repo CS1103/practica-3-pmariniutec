@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Development/Cpp/POO2/practica-3-pmariniutec/main.cpp
+iostream
+-
+algorithm
+-
+cassert
+-
+deque
+-
+matrix.h
+/home/piero/Development/Cpp/POO2/practica-3-pmariniutec/matrix.h
+section.h
+/home/piero/Development/Cpp/POO2/practica-3-pmariniutec/section.h
+
+/home/piero/Development/Cpp/POO2/practica-3-pmariniutec/matrix.h
+vector
+-
+cassert
+-
+iostream
+-
+
+/home/piero/Development/Cpp/POO2/practica-3-pmariniutec/section.h
+iostream
+-
+sstream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+
